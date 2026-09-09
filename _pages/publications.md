@@ -5,25 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Working Papers & Dissertation Projects
 
-{% include base_path %}
+ * "Operational autonomy and outlet performance: Evidence from a franchise restaurant context." with Keith Skowronski and Sean M. Handley. Target: Production and Operations Management (Fall 2026).
+     * Presented at POMS Annual Conference, Reno, NV (May 2026).
+     * Presented at DSI Annual Conference, Orlando, FL (Nov 2025).
+     * Presented at INFORMS Annual Meeting, Atlanta, GA (Oct 2025).
+     * Presented at POMS Annual Conference, Atlanta, GA (May 2025).
+     * Presented at DSI Annual Conference, Phoenix, AZ (Nov 2024).
 
-## Ongoing Research
-* "Using Artificial Intelligence to Reduce Food Waste." with Elena Belavina and Karan Girotra. Major Revision at *Management Science*. [[Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4826777)]
-   * Finalist, 2025 INFORMS Service Science Best Paper Competition - Socially Responsible Research Track. 
-   * Finalist, 2024 INFORMS Technology, Innovation Management, and Entrepreneurship Section's (TIMES) Best Working Paper Competition.
-   * 2024 Climate Solutions Fund's Award Recipient ($111,114).
+ * "Peer-Based Process Feedback and Voluntary Sourcing Standardization in Franchise Operations: A Field Experiment." with Daniel Kwasnitschka, Keith Skowronski, and Sean M. Handley. Target: Registered Reports Review Initiative at Journal of Operations Management (September 2026).
 
-* "Human-Centric Perishable Inventory Management with AI Assistance." with Meng Qi, Elena Belavina and Karan Girotra. In *NeurIPS 2025 Workshop MLxOR: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making*. [[Paper Link](https://openreview.net/forum?id=zxaMZHF1JW)]
-   * Spotlight Talk at NeurIPS 2025 Workshop MLxOR.
-  
-* "Human-LLM Collaborative Optimization for High-Stakes Data-Driven Decision-Making." with Meng Qi, Elena Belavina and Karan Girotra. Work in progress. 
+ * "Intra-brand competition and franchisee autonomy in operating procedures." with Keith Skowronski and Sean M. Handley. Working paper (Target: Spring 2027).
+     * Presented at DSI Annual Conference, Atlanta, GA (Nov 2023).
+     * Presented at POMS Annual Conference, Orlando, FL (May 2023).
 
-## Undergraduate Research
-* "Pricing and Capacity Allocation: Implications for Manufacturers with Product Sharing." with Bin Dai. *Naval Research Logistics* 2020, 67(3): 201-222. [[Document](https://YuNu1210.github.io/files/NRL_ProductSharing.pdf)]
+## Publications (Pre-PhD)
 
-* "Interactions of Traceability and Reliability Optimization in a Competitive Supply Chain with Product Recall." with Bin Dai, Xia Xie, and Jianbin Li. *European Journal of Operational Research* 2021, 290(1): 116-131. [[Document](https://YuNu1210.github.io/files/EJOR_ProductRecall.pdf)]
+ * Lee, J., Shin, H., and Jawara, F. (2020). "Understanding production planning and the gamesmanship behavior of producers: A case of Korean agriculture industry." Korea Productivity Association, 34(3), 29–55.
+     * Earlier version presented at POMS Annual Conference, Seattle, WA (May 2017).
 
