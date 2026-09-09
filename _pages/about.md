@@ -7,28 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+# Welcome to my personal website!
 
-I am Yu Nu, an Assistant Professor of Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), the [University of South Carolina](https://sc.edu). I received my Ph.D. degree in [Operations, Technology, and Information Management (OTIM)](https://www.johnson.cornell.edu/programs/phd-program/operations-technology-information-management/) from the [Johnson Graduate School of Management](https://www.johnson.cornell.edu) at [Cornell University](https://www.cornell.edu)/[Cornell Tech](https://tech.cornell.edu) in 2025. 
-<!--I am very fortunate to be advised by Prof. [Karan Girotra](https://tech.cornell.edu/people/karan-girotra/) (Chair), Prof. [Elena Belavina](https://sha.cornell.edu/faculty-research/faculty/eb733/) (Co-chair), and Prof. [Meng Qi](https://business.cornell.edu/faculty-research/faculty/mq56/).-->
+I am Jaewoo Lee, a Ph.D. Candidate in Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), [University of South Carolina](https://sc.edu) (expected May 2027). I am co-advised by Prof. [Keith Skowronski](https://sc.edu/study/colleges_schools/moore/directory/skowronski_keith.php) and Prof. [Sean Handley](https://sc.edu/study/colleges_schools/moore/directory/handley_sean.php). 
 
-My research interests are in sustainable operations and technology adoption. I study how technology, AI, and data can improve operational efficiency and environmental sustainability, with a focus on food waste reduction in commercial kitchens, human-centric perishable inventory management, and more recently, electric vehicle charging and energy saving. I use full stack of data tools, including causal inference analyses, machine learning techniques, data-driven optimization strategies, and experiments.  
+Prior to joining the doctoral program, I earned an M.A. in Business Administration (Management Sciences, Minor in Statistics) from [The Ohio State University](https://www.osu.edu), an M.S. in Operations Management from [Korea University](https://www.korea.edu), and a B.S. in Food and Nutrition (Minor in Business Administration) from [Yonsei University](https://www.yonsei.ac.kr).
+
+My research centers on franchisor–franchisee operational relationships, service operations, and behavioral operations. In my doctoral dissertation, I examine the operational tension between system-wide standardization and local autonomy in franchise contexts, focusing on the outlet-level performance impacts and behavㅁioral drivers of franchisee operational autonomy. Methodologically, I utilize applied econometrics and randomized field experiments conducted through industry collaboration.
+
+---
 
 ## News
 
-**Aug 2026** &nbsp; Our work *“Human-Centric Perishable Inventory Management with AI Assistance”* was selected as a finalist for the 2026 INFORMS Data Mining Society (DMS) Best Paper Award - General Track.
+May 2026 &nbsp; Awarded the Doctoral Fellows Award by the Darla Moore School of Business, University of South Carolina.
 
-**Aug 2026** &nbsp; My PhD dissertation on *“AI Solutions for Food Waste Reduction”* was selected as a finalist for the 2026 INFORMS TIMES Doctoral Dissertation Competition.
+May 2026 &nbsp; Presented "Operational autonomy and outlet performance: Evidence from a restaurant franchise context" at the POMS 34th Annual Conference, Reno, NV.
 
-**Aug 2026** &nbsp; Presented our work *“From Touch to AI: Causal Evidence on Smart-Scale Food-Waste Trackers in Commercial Kitchens”* at the Rotman Young Scholar Seminar, Online.
-
-**Jul 2026** &nbsp; Presented our work *“Human-Centric Perishable Inventory Management with AI Assistance”* at the 2026 INFORMS MSOM Annual Conference, Harvard Boston.
-
-**June 2026** &nbsp; My PhD dissertation on *“AI Solutions for Food Waste Reduction”* won Second Prize in the Doctoral Dissertation Award Competition at the 2026 Supply Chain Analytics Institute Annual Conference, Rutgers Newark. 
 
 
 <!-- You can find my CV here: [[Yu Nu's Curriculum Vitae](https://YuNu1210.github.io/files/YuNu_CV_250819.pdf)].-->
 
 <!--
-**UPDATE: I will be teaching joining the University of South Carolina, Darla Moore School of Business as an Assistant Professor of Management Science in August 2025**.
+UPDATE: I will be teaching joining the University of South Carolina, Darla Moore School of Business as an Assistant Professor of Management Science in August 2025.
 -->
