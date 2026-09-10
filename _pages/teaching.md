@@ -6,29 +6,35 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Teaching 
+
+## Teaching
+
 ### Darla Moore School of Business, University of South Carolina
 
-### Instructor
-* MGSC 291 Applied Statistics for Business (Undergraduate Core), Fall 2025
-  
-### SC Johnson College of Business, Cornell Tech/Cornell University
-### Co-instructor
-* NCCW 5080 Managing Operations (Healthcare EMBA Core), Fall 2022 
-* NCCY 5080 Managing Operations (MBA Core), Fall 2021
-     
-### Teaching Assistant
-* NBAY 6760 Decision Models (MBA Elective), Fall 2024
-* NCCE 5080 Managing Operations (EMBA Core), Spring 2022, Spring 2021
-* NCCY 5080 Operations Management (MBA Core), Fall 2020
+#### Instructor
+* MGSC 395 Operations Management (Undergraduate Core), Spring 2024
+  * Instructor performance rating: 4.2 / 5.0 (25 out of 30 students evaluated)
+
+#### Teaching Assistant & Academic Service
+* Data Lab Manager, Department of Management Science, Aug 2025 – Present
+* MGSC 486 Service Operations Management (Undergraduate Elective), Spring 2025
+* KEPCO Executive International MBA, Summer 2022, Summer 2023, Summer 2024
+
+### Fisher College of Business, The Ohio State University
+
+#### Teaching Assistant
+* BUSMGT 7223 Project Management (Graduate Elective), Spring 2021
+* BUSMGT 2320 Decision Sciences: Statistical Techniques (Undergraduate Core), Spring 2020
+* BUSMGT 3230 Introduction to Operations Management (Undergraduate Core), Spring 2019
+
+---
 
 ## Professional Service
-### External Service
-* Ad hoc Reviewer for Production & Operations Management, Omega, 2025-
-* Session Chair at POMS Annual Meeting, 2026
-* Session Chair at INFORMS Annual Meeting, 2024
-* Program Committee Member for INFORMS Data Science Workshop, 2024
-* Reviewer for INFORMS BOM Best Working Paper Competition, 2024
-  
-### Internal Service
-* Co-chair for Cornell Johnson OTIM PhD Forum, 2021-2022
+
+### Editorial & Reviewing Service
+* Guest Reviewer, Production and Operations Management Society (POMS)
+
+### Professional Affiliations
+* Production and Operations Management Society (POMS)
+* Decision Sciences Institute (DSI)
+* Institute for Operations Research and the Management Sciences (INFORMS)
