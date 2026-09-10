@@ -9,7 +9,7 @@ title_separator          : "-"
 name                     : &name "Jaewoo Lee"
 description              : &description "Personal academic website of Jaewoo Lee, Ph.D. Candidate in Management Science at the Darla Moore School of Business, University of South Carolina."
 url                      : "https://l3114987.github.io"
-baseurl                  : ""
+baseurl                  : "/l3114987.github.io"
 repository               : "l3114987/l3114987.github.io"
 
 # Site Author - The following controls what appears as part of the author profile on the sidebar.
