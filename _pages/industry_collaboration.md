@@ -22,4 +22,4 @@ My research program leverages this rich empirical setting across three primary d
 
 <br>
 
-![BC_demo](https://github.com/l3114987/Jaewoo-Lee-Personal-Homepage/blob/master/images/1version%20bc.png)
+![BC_demo](/images/1version%20bc.png)
