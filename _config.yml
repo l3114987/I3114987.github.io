@@ -15,7 +15,7 @@ repository               : "l3114987/l3114987.github.io"
 # Site Author - The following controls what appears as part of the author profile on the sidebar.
 author:
   # Biographic information
-  avatar            : "/images/Profile_jaewoo.jpg"
+  avatar            : "images/Profile_jaewoo.jpg"
   name              : "Jaewoo Lee"
   pronouns          : "He/him/his"
   bio               : "Ph.D. Candidate in Management Science, Darla Moore School of Business, University of South Carolina"
