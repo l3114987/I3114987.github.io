@@ -22,4 +22,12 @@ My research program leverages this rich empirical setting across three primary d
 
 <br>
 
-![BC_demo](/images/1version%20bc.png)
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/1version%20bc.png" alt="BC_demo" style="width: 100%;">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/FranchiseExpoinNY.jpeg" alt="Franchise Expo NY" style="width: 100%;">
+    <p style="font-size: 0.9em; margin-top: 5px;">Industry partners in New York City at the <a href="https://www.franchiseexpo.com/ife">International Franchise Expo</a> 2023</p>
+  </div>
+</div>
