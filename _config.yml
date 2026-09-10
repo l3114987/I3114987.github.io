@@ -26,9 +26,7 @@ author:
 
   # Academic websites
   arxiv             : # URL
-  googlescholar     : "" # 구글 스칼라 프로필 생성 시 URL 입력
   impactstory       : # URL
-  orcid             : "" # ORCID 생성 시 ID 입력
   semantic          : # URL
   pubmed            : # URL
   researchgate      : # URL
@@ -37,7 +35,6 @@ author:
   bitbucket         : 
   codepen           : 
   dribbble          : 
-  github            : "l3114987"
   kaggle            : 
   stackoverflow     : 
 
