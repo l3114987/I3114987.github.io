@@ -1,16 +1,18 @@
 # main links links
+# main links
 main:
+  - title: "About"
+    url: /
   - title: "Research"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching & Service"
-    url: /teaching/    
-    
-  - title: "Industry Collaboration"
-    url: /industry_collaboration/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Presentations"
+    url: /talks/
+  - title: "CV"
+    url: /cv/
+  - title: "Personal"
+    url: /personal/
     
   # - title: "CV"
   #  url: /cv/
